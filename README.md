@@ -1,4 +1,4 @@
-# Python Marathon Workshop
+# Python Basecamp Marathon Workshop
 To learn coding, you need to code. This course is to teach Python in a hands-on way, with 4 practical projects. As you learn concepts, you will apply them while coding these projects. The projects become steadily more advanced as the course progresses.
 
 This is the GreyAtom repository for the **Python Marathon Workshop** . In here you'll find the Code Alongs that are going to be conducted by a mentor. 
